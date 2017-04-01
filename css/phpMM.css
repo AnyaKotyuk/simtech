@@ -1,0 +1,9 @@
+.ch1 form label{
+    width: 40%;
+    text-align: right;
+    display: inline-block;
+}
+.ch1 form fieldset{
+    margin: 10px 0;
+
+}
